@@ -6,7 +6,7 @@
 
 Personal portfolio built with React, TypeScript, and Vite. It brings together my selected projects, technical skills, achievements, education, certifications, and contact links in a responsive, accessible interface.
 
-[Visit the portfolio](https://aazam-create.github.io/)
+[Visit the portfolio](https://amame-aazam.github.io/)
 
 </div>
 
@@ -37,8 +37,8 @@ This site is designed to make it easy to explore my work, read the technical con
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| **ClassMark** | Role-based classroom management app using React Native, Firebase Authentication, and Firestore. | [Source](https://github.com/aazam-create/Class-Mark) |
-| **SmartRail — IRCTC 2.0** | React and TypeScript travel-booking interface prototype. The live site is a demo, not an official IRCTC service. | [Source](https://github.com/aazam-create/IRCTC) · [Live demo](https://irctc-2-0-g.vercel.app/) |
+| **ClassMark** | Role-based classroom management app using React Native, Firebase Authentication, and Firestore. | [Source](https://github.com/amame-aazam/Class-Mark) |
+| **SmartRail — IRCTC 2.0** | React and TypeScript travel-booking interface prototype. The live site is a demo, not an official IRCTC service. | [Source](https://github.com/amame-aazam/IRCTC) · [Live demo](https://irctc-2-0-g.vercel.app/) |
 
 ## Run locally
 
@@ -74,7 +74,7 @@ The included workflow at `.github/workflows/deploy.yml` builds the site and publ
 2. Push this project to the repository's `main` branch.
 3. In the repository, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**.
 4. Check the **Actions** tab and wait for the Pages deployment workflow to finish.
-5. Visit **`https://aazam-create.github.io/`**.
+5. Visit **`https://amame-aazam.github.io/`**.
 
 GitHub Pages may take a few minutes to publish the first deployment. Later pushes to `main` deploy automatically.
 
@@ -100,7 +100,7 @@ GitHub Pages may take a few minutes to publish the first deployment. Later pushe
 
 - **Email:** [amameaazam@gmail.com](mailto:amameaazam@gmail.com)
 - **LinkedIn:** [amame-aazam](https://www.linkedin.com/in/amame-aazam/)
-- **GitHub:** [aazam-create](https://github.com/aazam-create)
+- **GitHub:** [amame-aazam](https://github.com/amame-aazam)
 - **LeetCode:** [Aazam07](https://leetcode.com/u/Aazam07/)
 
 ---
