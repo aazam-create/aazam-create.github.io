@@ -50,7 +50,7 @@ This site is designed to make it easy to explore my work, read the technical con
 ### Setup
 
 ```bash
-git clone https://github.com/aazam-create/amame-aazam.github.io.git
+git clone https://github.com/amame-aazam/amame-aazam.github.io.git
 cd amame-aazam.github.io
 npm ci
 npm run dev

@@ -6,7 +6,7 @@ const resumeUrl = '/resume/Aazam_Resume.pdf'
 const profileLinks = {
   email: 'mailto:amameaazam@gmail.com',
   phone: 'tel:+917479582872',
-  github: 'https://github.com/aazam-create',
+  github: 'https://github.com/amame-aazam',
   linkedin: 'https://www.linkedin.com/in/amame-aazam/',
   leetcode: 'https://leetcode.com/u/Aazam07/',
 }
@@ -28,7 +28,7 @@ const projects = [
     description:
       'A student and faculty app with Firebase authentication, Firestore profiles, and role-based screen routing.',
     technologies: ['React Native', 'JavaScript', 'Firebase Auth', 'Firestore'],
-    href: 'https://github.com/aazam-create/Class-Mark',
+    href: 'https://github.com/amame-aazam/Class-Mark',
     flowLabel: 'ClassMark account and role flow',
     steps: [
       { title: 'Firebase Auth', detail: 'Sign up / sign in' },
@@ -46,7 +46,7 @@ const projects = [
     description:
       'A React and TypeScript travel interface with an open dashboard and sign-in-gated routes for its booking and travel features.',
     technologies: ['React', 'TypeScript', 'Vite', 'Firebase'],
-    href: 'https://github.com/aazam-create/IRCTC',
+    href: 'https://github.com/amame-aazam/IRCTC',
     liveHref: 'https://irctc-2-0-g.vercel.app/',
     flowLabel: 'SmartRail application route flow',
     steps: [
