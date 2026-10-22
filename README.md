@@ -50,8 +50,8 @@ This site is designed to make it easy to explore my work, read the technical con
 ### Setup
 
 ```bash
-git clone https://github.com/aazam-create/aazam-create.github.io.git
-cd aazam-create.github.io
+git clone https://github.com/aazam-create/amame-aazam.github.io.git
+cd amame-aazam.github.io
 npm ci
 npm run dev
 ```
@@ -70,7 +70,7 @@ Vite prints the local development URL in the terminal.
 
 The included workflow at `.github/workflows/deploy.yml` builds the site and publishes it to GitHub Pages whenever changes are pushed to `main`.
 
-1. Create a **public** GitHub repository named `aazam-create.github.io`.
+1. Create a **public** GitHub repository named `amame-aazam.github.io`.
 2. Push this project to the repository's `main` branch.
 3. In the repository, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**.
 4. Check the **Actions** tab and wait for the Pages deployment workflow to finish.
