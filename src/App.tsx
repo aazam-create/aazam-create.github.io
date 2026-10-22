@@ -232,7 +232,7 @@ function App() {
           <div className="section-wrap narrow-section reveal">
             <p className="section-index">01 — ABOUT</p>
             <h2 className="section-title">About Me</h2>
-            <p className="about-copy">I am a full-stack software developer proficient in the MERN stack (MongoDB, Express.js, React, and Node.js), with a strong background in system design and AI-driven development. I have a solid foundation in Java and Data Structures &amp; Algorithms, and I enjoy building practical applications and solving complex technical problems.</p>
+            <p className="about-copy">I am a full-stack software developer proficient in the MERN stack (MongoDB, Express.js, React, Node.js) with a strong background in system design and AI-driven development. My solid Java skills and deep knowledge of data structure algorithms (DSA) have helped me build multiple impactful projects end-to-end. I excel at solving complex problems and delivering measurable results quickly.</p>
           </div>
         </section>
 
